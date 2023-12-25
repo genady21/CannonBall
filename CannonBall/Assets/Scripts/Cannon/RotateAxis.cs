@@ -6,5 +6,4 @@ namespace Cannon
     {
         public abstract void Rotate(Vector2 vector);
     }
-
 }
